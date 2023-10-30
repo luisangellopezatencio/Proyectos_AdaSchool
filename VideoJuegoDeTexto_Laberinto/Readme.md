@@ -1,0 +1,1 @@
+Este es el proyecto integrado de ADAschool de la ruta de data science, el proyecto es un videjuego de tecto deonde el "#" Representa una pared, "." representa un pasillo y la letara "P" representa el personaje, este proyecto lo está realizando Luis A. López Atencio
